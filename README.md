@@ -2,7 +2,7 @@ The CRM application for laptop rentals focuses on delivering rental items to cus
 the capabilities of customer relationship management (CRM) to enhance customer experiences,
 streamline store operations, and boost overall efficiency. Furthermore, effective CRM practices include
 communicating with potential customers through email, ensuring that we engage with those identified
-as prospects.
+as prospects./n
 The key features of the CRM application for laptop rentals are given below:
 1.** User-Friendly Interface**
 Easy navigation for customers to browse and rent laptops.
