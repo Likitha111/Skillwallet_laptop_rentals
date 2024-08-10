@@ -17,5 +17,3 @@ Engages potential customers with personalized email campaigns to nurture leads.<
 Provides easy access to assistance and feedback channels for improved service.<br />
 6.**Performance Tracking**<br />
 Monitors rental trends and customer satisfaction to enhance service offerings.<br />
-
-![alt text](https://github.com/Likitha111/Skillwallet_laptop_rentals/main/README.md/Design.png?raw=true)
